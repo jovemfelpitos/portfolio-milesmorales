@@ -14,6 +14,10 @@ HTML
 CSS
 JavaScript
 
+Acesse o projeto online por aqui: 
+
+https://portfolio-milesmorales.vercel.app/index.html
+
 Feito por:
 
 felpitos
